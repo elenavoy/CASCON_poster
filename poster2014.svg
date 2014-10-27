@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="poster2014.pdf"
+   sodipodi:docname="poster2014.svg"
    inkscape:export-filename="C:\Users\elenavoyl\git\CASCON_poster_2014\poster2014.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -254,16 +254,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.175"
+     inkscape:zoom="0.35"
      inkscape:cx="965.26554"
-     inkscape:cy="1513.0064"
+     inkscape:cy="1657.7991"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="706"
+     inkscape:window-width="1600"
+     inkscape:window-height="1138"
      inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-y="147"
      inkscape:window-maximized="1"
      units="px"
      showguides="true"
@@ -276,7 +276,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -440,7 +440,7 @@
          x="805.45563"
          y="-1772.2852"
          id="tspan5274"
-         style="font-size:45px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:Calibri">Information discovery- and curation-oriented design of web applications</tspan><tspan
+         style="font-size:45px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:Calibri">Information discovery and curation-oriented design of Web applications</tspan><tspan
          sodipodi:role="line"
          x="805.45563"
          y="-1716.0352"
@@ -455,50 +455,45 @@
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="1468.3817"
-       y="101.26315"
+       y="121.26321"
        id="text5340"
        sodipodi:linespacing="125%"
        transform="scale(1.0000025,0.9999975)"><tspan
          sodipodi:role="line"
          x="1468.3817"
-         y="101.26315"
+         y="121.26321"
          style="font-size:40px"
          id="tspan4615">The resulting application, </tspan><tspan
          sodipodi:role="line"
          x="1468.3817"
-         y="151.26315"
+         y="171.26321"
          style="font-size:40px"
          id="tspan4547">KeePlaces, supports opportunistic </tspan><tspan
          sodipodi:role="line"
          x="1468.3817"
-         y="201.26315"
+         y="221.26321"
          style="font-size:40px"
          id="tspan4651">place discovery and curation by </tspan><tspan
          sodipodi:role="line"
          x="1468.3817"
-         y="251.26315"
+         y="271.26321"
          style="font-size:40px"
          id="tspan4549">allowing users to curate personal </tspan><tspan
          sodipodi:role="line"
          x="1468.3817"
-         y="301.26315"
+         y="321.26321"
          style="font-size:40px"
-         id="tspan4619">collections of place photos, </tspan><tspan
+         id="tspan4619">collections of photos of places </tspan><tspan
          sodipodi:role="line"
          x="1468.3817"
-         y="351.26315"
+         y="371.26321"
          style="font-size:40px"
-         id="tspan4716">and discovering and adding </tspan><tspan
+         id="tspan3239">and discover and add new photos </tspan><tspan
          sodipodi:role="line"
          x="1468.3817"
-         y="401.26315"
+         y="421.26321"
          style="font-size:40px"
-         id="tspan4551">new photos for outing planning </tspan><tspan
-         sodipodi:role="line"
-         x="1468.3817"
-         y="451.26315"
-         style="font-size:40px"
-         id="tspan4621">and inspiration.</tspan></text>
+         id="tspan4621">for inspiration and planning outings.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:91.76121521px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans"
@@ -967,7 +962,7 @@
          x="1477.4556"
          y="-1163.0452"
          id="tspan3347"
-         style="fill:#008548;fill-opacity:1">Serendiputy</tspan><tspan
+         style="fill:#008548;fill-opacity:1">Serendipity</tspan><tspan
          sodipodi:role="line"
          x="1477.4556"
          y="-1125.5452"
@@ -976,7 +971,7 @@
          x="1477.4556"
          y="-1079.6895"
          id="tspan4302-6"
-         style="font-size:40px;fill:#50002a;fill-opacity:1">Fact Discovery</tspan><tspan
+         style="font-size:40px;fill:#50002a;fill-opacity:1">Fact discovery</tspan><tspan
          sodipodi:role="line"
          x="1477.4556"
          y="-1038.0452"
@@ -1269,7 +1264,7 @@
          x="805.30823"
          y="-1548.9012"
          style="font-size:45px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:Calibri"
-         id="tspan4483">By applying the conceptual framework of information discovery and </tspan><tspan
+         id="tspan4483">By applying our conceptual framework of information discovery and </tspan><tspan
          sodipodi:role="line"
          x="805.30823"
          y="-1492.6512"
@@ -1289,7 +1284,7 @@
          x="805.30823"
          y="-1323.9012"
          style="font-size:45px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:Calibri"
-         id="tspan4190">using its main features highlighted in <tspan
+         id="tspan4190">using the application's main features, highlighted in <tspan
    style="fill:#008548;fill-opacity:1"
    id="tspan4589">green</tspan>.</tspan></text>
     <flowRoot
