@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="poster2014.svg"
+   sodipodi:docname="poster2014.png"
    inkscape:export-filename="C:\Users\elenavoyl\git\CASCON_poster_2014\poster2014.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -256,14 +256,14 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
      inkscape:cx="965.26554"
-     inkscape:cy="1657.7991"
+     inkscape:cy="2469.2277"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1600"
-     inkscape:window-height="1138"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
      inkscape:window-x="-8"
-     inkscape:window-y="147"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      units="px"
      showguides="true"
@@ -276,7 +276,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1279,12 +1279,12 @@
          x="805.30823"
          y="-1380.1512"
          style="font-size:45px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:Calibri"
-         id="tspan4587">implemented a corresponding application that aims to close the gaps</tspan><tspan
+         id="tspan4587">implemented an application that aims to close these gaps</tspan><tspan
          sodipodi:role="line"
          x="805.30823"
          y="-1323.9012"
          style="font-size:45px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:Calibri"
-         id="tspan4190">using the application's main features, highlighted in <tspan
+         id="tspan4190">using the features highlighted in <tspan
    style="fill:#008548;fill-opacity:1"
    id="tspan4589">green</tspan>.</tspan></text>
     <flowRoot
